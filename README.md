@@ -1,3 +1,13 @@
+# Fermat factorization attack in TLS 1.2, using `TLS_RSA_WITH_AES_256_GCM_SHA384` cipher suite
+Hello! This project **contains a vulnerable application**, using AppSeed's template for a login page. This will be used at the cybersecurity event in Compañía Minera Doña Inés de Collahuasi SCM, Iquique, Chile, demonstrating the Fermat factorization attack in RSA key exchange of TLS. For some math explanations, here's my blog and some interesting references:
+
+* My blog: https://d-cryp7.notion.site/Fermat-factorization-attack-233dd7e1ad864141bdb9da01646155b7
+* Fermat Attack on RSA: https://fermatattack.secvuln.info
+* Fermat Factorization in the Wild: https://eprint.iacr.org/2023/026
+* Creating a Self-Signed Certificate: https://www.baeldung.com/openssl-self-signed-cert
+
+How to deploy the application? See below! Thanks AppSeed :)
+
 # [React Flask Authentication](https://blog.appseed.us/react-flask-authentication/)
 
 Open-source full-stack seed project that uses a `React UI` powered by a simple `Flask API Server`. **[React Flask Authentication](https://blog.appseed.us/react-flask-authentication/)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and Flask is a leading web framework written in Python. 
