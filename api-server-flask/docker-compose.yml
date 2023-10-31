@@ -16,6 +16,7 @@ services:
       - "5000:5000"
     volumes:
       - ./nginx:/etc/nginx/conf.d
+      - ./certs:/etc/nginx/certs
     networks:
       - web_network
     depends_on: 
