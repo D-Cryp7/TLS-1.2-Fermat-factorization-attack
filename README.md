@@ -1,6 +1,7 @@
 # Fermat factorization attack in TLS 1.2, using `TLS_RSA_WITH_AES_256_GCM_SHA384` cipher suite
 Hello! This project **contains a vulnerable application**, using AppSeed's template for a login page. This will be used at the cybersecurity event in Compañía Minera Doña Inés de Collahuasi SCM, Iquique, Chile, demonstrating the Fermat factorization attack in RSA key exchange of TLS. For some math explanations, here's my blog and some interesting references:
 
+* LinkedIn: https://www.linkedin.com/in/daniel-espinoza-tel/
 * The Illustrated TLS 1.2 Connection: https://tls12.xargs.org
 * My blog: https://d-cryp7.notion.site/Fermat-factorization-attack-233dd7e1ad864141bdb9da01646155b7
 * Fermat Attack on RSA: https://fermatattack.secvuln.info
